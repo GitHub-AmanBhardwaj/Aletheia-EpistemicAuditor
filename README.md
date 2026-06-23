@@ -5,10 +5,9 @@ An automated, multi-agent Natural Language Inference (NLI) framework for detecti
 
 
 <iframe
-    src="[https://drive.google.com/file/d/FILE_ID/preview](https://drive.google.com/file/d/1Xh0SPo2OawKlU04Cak2VJ5L48SmYPbGt/view?usp=drive_link)"
+    src="https://drive.google.com/file/d/1Xh0SPo2OawKlU04Cak2VJ5L48SmYPbGt/preview"
     width="640"
     height="480"
     allow="autoplay">
 </iframe>
 
-[https://drive.google.com/file/d/FILE_ID/preview](https://drive.google.com/file/d/1Xh0SPo2OawKlU04Cak2VJ5L48SmYPbGt/view?usp=drive_link)
