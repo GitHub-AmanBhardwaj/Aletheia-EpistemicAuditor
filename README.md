@@ -4,4 +4,4 @@ An automated, multi-agent Natural Language Inference (NLI) framework for detecti
 🔗 **Access it live here:** [Link](https://whyamanbhardwaj-aletheia.hf.space/)
 
 
-<video autoplay muted loop playsinline><source src="./demo.mp4" type="video/mp4"></video>
+[![Demo]()](https://github.com/USERNAME/REPO/blob/main/assets/demo.mp4)
