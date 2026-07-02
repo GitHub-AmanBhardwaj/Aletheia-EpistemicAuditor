@@ -1,12 +1,18 @@
 # Aletheia — Epistemic Auditor
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+
 Aletheia is an automated, multi-agent Natural Language Inference (NLI) framework designed to detect stochastic parroting and epistemic hallucinations in scientific literature.
 
 ## Demo Video
 
-Watch the application in action:
+Watch how application works:
 
-https://drive.google.com/file/d/1Xh0SPo2OawKlU04Cak2VJ5L48SmYPbGt/view
+![View here](https://drive.google.com/file/d/1Xh0SPo2OawKlU04Cak2VJ5L48SmYPbGt/view)
 
 ---
 
@@ -57,4 +63,4 @@ http://localhost:7860
 
 Try the hosted application:
 
-https://whyamanbhardwaj-aletheia.hf.space/
+![Try Here](https://whyamanbhardwaj-aletheia.hf.space/)
