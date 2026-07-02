@@ -12,7 +12,7 @@ Aletheia is an automated, multi-agent Natural Language Inference (NLI) framework
 
 Watch how application works:
 
-![View here](https://drive.google.com/file/d/1Xh0SPo2OawKlU04Cak2VJ5L48SmYPbGt/view)
+[View here](https://drive.google.com/file/d/1Xh0SPo2OawKlU04Cak2VJ5L48SmYPbGt/view)
 
 ---
 
@@ -63,4 +63,4 @@ http://localhost:7860
 
 Try the hosted application:
 
-![Try Here](https://whyamanbhardwaj-aletheia.hf.space/)
+[Try Here](https://whyamanbhardwaj-aletheia.hf.space/)
